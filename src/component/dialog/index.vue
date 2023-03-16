@@ -9,7 +9,6 @@
 </template>
 
 <script setup lang="ts">
-import { defineEmits } from 'vue'
 let props = defineProps<{
     show:boolean
 }>()

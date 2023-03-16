@@ -1,0 +1,41 @@
+.checkbox-border{
+    border:1px solid red;
+    width: 750rpx;
+    box-sizing: border-box;
+}
+.title{
+    width: 750rpx;
+    box-sizing: border-box;
+    font-size: 40rpx;
+    padding: 20rpx 0;
+}
+/* 开始 */
+.start{
+    width: 300rpx;
+    height: 300rpx;
+    border-radius: 50%;
+    margin-left:225rpx;
+    // margin-top:517rpx;
+    margin-top:300rpx;
+    box-shadow: 1rpx 1rpx 1rpx 1rpx;
+    background: #07c5ff;
+    text-align: center;
+    /* padding: 0 auto; */
+    color: #fff;
+    line-height: 300rpx;
+    font-size: 50rpx;
+    font-weight: bold;
+}
+/* 倒计时 */
+.countdown{
+    width: 300rpx;
+    height: 300rpx;
+    border-radius: 50%;
+    margin-left:225rpx;
+    margin-top:300rpx;
+    text-align: center;
+    line-height: 300rpx;
+    color: #07c5ff;
+    font-weight: bold;
+    font-size: 100rpx;
+}
